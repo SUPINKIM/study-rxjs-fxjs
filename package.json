@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "parcel-bundler": "^1.12.5",
+    "rxjs": "^7.8.1"
+  },
+  "name": "study-rxjs-fxjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@private-github.com:SUPINKIM/study-rxjs-fxjs.git",
+  "author": "SUPINKIM <qorgkr26@sookmyung.ac.kr>",
+  "license": "MIT",
+  "type": "module"
+}
